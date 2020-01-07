@@ -1,5 +1,17 @@
 # Tapestry
 
+Tapestry algorithm using actor model in Elixir based on the research paper - https://pdos.csail.mit.edu/~strib/docs/tapestry/tapestry_jsac03.pdf
+
+Extract the contents of the zip folder in your desired location. 
+
+After extracting, open cmd/terminal to the folder which has the mix.exs file 
+
+Run the program by giving the command:  “mix run tapestry.exs <number of nodes> <number of requests>”  
+  
+The output will print the maximum number of hops and the run terminates when the peer performs the given number of requests
+
+Largest Network Handled: Number of nodes - 10000 , Number of Requests - 200
+
 **TODO: Add description**
 
 ## Installation
