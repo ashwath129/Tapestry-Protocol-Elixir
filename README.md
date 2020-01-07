@@ -12,7 +12,6 @@ The output will print the maximum number of hops and the run terminates when the
 
 Largest Network Handled: Number of nodes - 10000 , Number of Requests - 200
 
-**TODO: Add description**
 
 ## Installation
 
